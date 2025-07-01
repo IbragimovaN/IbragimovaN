@@ -50,7 +50,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IbragimovaN&theme=default)
 
 📫 **Как связаться:**  
-- Telegram: [@IbragimovaNast](https://t.me/@IbragimovaNast)  
+- Telegram: [@IbragimovaNast](https://t.me/IbragimovaNast) 
 - Почта: anastasiya.ibr@mail.ru
  
 
