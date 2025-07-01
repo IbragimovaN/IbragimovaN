@@ -11,8 +11,9 @@
 - 📈 Постоянное развитие
 
 ### 📊 Моя активность на GitHub  
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbragimovaN&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IbragimovaN&theme=default)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IbragimovaN&theme=default)
 
 📫 **Как связаться:**  
 - Telegram: [@IbragimovaNast](https://t.me/@IbragimovaNast)  
