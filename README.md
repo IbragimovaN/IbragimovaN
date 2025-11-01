@@ -24,11 +24,12 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 
-###  State Management  
+### State Management  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white)
 ![MobX](https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=black)
 ![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-764ABC?logo=redux&logoColor=white)
 
 ###  Инструменты и DevOps  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
